@@ -112,10 +112,8 @@ To participate in the Joomla Academy, you must:
 ## How to Apply
 
 1. Fill out the application form: [https://docs.google.com/forms/d/e/1FAIpQLSd1rRIOJ6otnTZJ5OSpVR8braqXbmBP8MfgSlxADdbRWrDi3Q/viewform](https://docs.google.com/forms/d/e/1FAIpQLSd1rRIOJ6otnTZJ5OSpVR8braqXbmBP8MfgSlxADdbRWrDi3Q/viewform)
-2. Join the Joomla Community on Mattermost:
-   - For students: [https://joomlacommunity.cloud.mattermost.com/main/channels/ja-students](https://joomlacommunity.cloud.mattermost.com/main/channels/ja-students)
-3. Familiarize yourself with the project resources mentioned above
-4. Start exploring the Joomla codebase and development environment
+2. Familiarize yourself with the project resources mentioned above
+3. Start exploring the Joomla codebase and development environment
 
 ## Development Environment Setup
 
