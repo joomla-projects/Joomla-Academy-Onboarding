@@ -19,10 +19,10 @@ Building on the success of previous Google Summer of Code (GSoC) and Summer of C
 
 | Date | Event |
 |------|-------|
-| February 1 - February 28, 2025 | Application period |
-| March 15, 2025 | Final selection announced |
-| March 16-31, 2025 | Community bonding period |
-| April 1 - September 30, 2025 | Work period |
+| March 10 - April 7, 2025 | Application period |
+| April 14, 2025 | Final selection announced |
+| April 14-20, 2025 | Community bonding period (1 week) |
+| April 21 - September 30, 2025 | Work period |
 | July 15, 2025 | Midterm evaluations |
 | September 30, 2025 | Final submission deadline |
 | October 1-15, 2025 | Final evaluations and results announced |
@@ -112,11 +112,10 @@ To participate in the Joomla Academy, you must:
 ## How to Apply
 
 1. Fill out the application form: [https://docs.google.com/forms/d/e/1FAIpQLSd1rRIOJ6otnTZJ5OSpVR8braqXbmBP8MfgSlxADdbRWrDi3Q/viewform](https://docs.google.com/forms/d/e/1FAIpQLSd1rRIOJ6otnTZJ5OSpVR8braqXbmBP8MfgSlxADdbRWrDi3Q/viewform)
-2. **After submitting your application**, join the GitHub Discussions area for all further communication: [https://github.com/joomla-projects/Joomla-Academy-Onboarding/discussions](https://github.com/joomla-projects/Joomla-Academy-Onboarding/discussions)
-3. Join the Joomla Community on Mattermost:
+2. Join the Joomla Community on Mattermost:
    - For students: [https://joomlacommunity.cloud.mattermost.com/main/channels/ja-students](https://joomlacommunity.cloud.mattermost.com/main/channels/ja-students)
-4. Familiarize yourself with the project resources mentioned above
-5. Start exploring the Joomla codebase and development environment
+3. Familiarize yourself with the project resources mentioned above
+4. Start exploring the Joomla codebase and development environment
 
 ## Development Environment Setup
 
@@ -197,7 +196,6 @@ The Joomla Academy is funded through generous sponsors from the Joomla community
 
 For questions or additional information:
 
-- **Primary Contact Method**: [https://github.com/joomla-projects/Joomla-Academy-Onboarding/discussions](https://github.com/joomla-projects/Joomla-Academy-Onboarding/discussions) - All communication and enquiries after submitting your application form should happen through the Discussions area on this GitHub repository
 - **Student Channel on Mattermost**: [https://joomlacommunity.cloud.mattermost.com/main/channels/ja-students](https://joomlacommunity.cloud.mattermost.com/main/channels/ja-students)
 - **General Inquiries**: [vicepresident@opensourcematters.org](mailto:vicepresident@opensourcematters.org)
 
