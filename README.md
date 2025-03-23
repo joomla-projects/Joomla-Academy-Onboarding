@@ -92,7 +92,7 @@ This project focuses on expanding Joomla's migration capabilities, building on t
 - Ensure security during the migration process
 
 **Mentorship Team:**
-- Manu
+- Manu Beladevan 
 - Brian Mitchell
 - Shirielle Williams
 - Gary Barclay
