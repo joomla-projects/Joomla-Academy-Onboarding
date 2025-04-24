@@ -20,9 +20,9 @@ Building on the success of previous Google Summer of Code (GSoC) and Summer of C
 | Date | Event |
 |------|-------|
 | March 10 - April 22, 2025 | Application period |
-| April 30, 2025 | Final selection announced |
-| April 30 - May 7, 2025 | Community bonding period (1 week) |
-| May 7 - September 30, 2025 | Work period |
+| May 13, 2025 | Final selection announced |
+| May 13-20, 2025 | Community bonding period (1 week) |
+| May 20 - September 30, 2025 | Work period |
 | July 15, 2025 | Midterm evaluations |
 | September 30, 2025 | Final submission deadline |
 | October 1-15, 2025 | Final evaluations and results announced |
