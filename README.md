@@ -83,6 +83,7 @@ This project focuses on expanding Joomla's migration capabilities, building on t
 
 **Project Resources:**
 - GitHub Repository: [https://github.com/joomla-projects/soc23_joomla-converter](https://github.com/joomla-projects/soc23_joomla-converter)
+- Academy Repository(new): [https://github.com/joomla-projects/JA-Advanced-Migration-Tool](https://github.com/joomla-projects/JA-Advanced-Migration-Tool)
 - Mattermost Channel: [https://joomlacommunity.cloud.mattermost.com/main/channels/ospp-23---wordpress-to-joomla-migration-tests](https://joomlacommunity.cloud.mattermost.com/main/channels/ospp-23---wordpress-to-joomla-migration-tests)
 
 **Technical Focus:**
