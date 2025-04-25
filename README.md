@@ -57,6 +57,7 @@ Building upon the successful GSoC 2022 SEO project, this initiative aims to furt
 **Project Resources:**
 - GSoC 2022 Project: [https://summerofcode.withgoogle.com/archive/2022/projects/7uMIihJR](https://summerofcode.withgoogle.com/archive/2022/projects/7uMIihJR)
 - GitHub Repository: [https://github.com/alisha-kamat/GSoC-2022-Work-Report](https://github.com/alisha-kamat/GSoC-2022-Work-Report)
+- Academy Repository: [https://github.com/joomla-projects/JA-Enhanced-SEO](https://github.com/joomla-projects/JA-Enhanced-SEO)
 
 **Technical Focus:**
 - Convert existing proof-of-concept code into production-ready plugins
