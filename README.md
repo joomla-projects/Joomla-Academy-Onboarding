@@ -1,3 +1,5 @@
+![grafik](https://github.com/user-attachments/assets/75d3c91a-4616-4f66-b9ba-83c8a99f1317)
+
 # Joomla Academy Onboarding Documentation
 
 ## Welcome to the Joomla Academy!
